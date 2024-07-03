@@ -1,0 +1,4 @@
+A=SOCIETE_A|B=Billet,Table,Journées
+A=SOCIETE_B|B=Papier,Toits
+A=SOCIETE_C|B=Chaise,Ordinateurs,Pigeons
+
